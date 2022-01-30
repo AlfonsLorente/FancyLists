@@ -9,7 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-// PAGINA 119 LLIBRE Beginning.Android.3File
 
 
 public class MainActivity extends ListActivity {
